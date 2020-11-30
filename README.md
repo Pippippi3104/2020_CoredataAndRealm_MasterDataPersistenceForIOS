@@ -1,0 +1,1 @@
+# 2020_CoredataAndRealm_MasterDataPersistenceForIOS
